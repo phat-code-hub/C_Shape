@@ -1,0 +1,13 @@
+D:\BT C#\Extra_Terrestrials\bin\Debug\netcoreapp3.1\Extra_Terrestrials.exe
+D:\BT C#\Extra_Terrestrials\bin\Debug\netcoreapp3.1\Extra_Terrestrials.deps.json
+D:\BT C#\Extra_Terrestrials\bin\Debug\netcoreapp3.1\Extra_Terrestrials.runtimeconfig.json
+D:\BT C#\Extra_Terrestrials\bin\Debug\netcoreapp3.1\Extra_Terrestrials.runtimeconfig.dev.json
+D:\BT C#\Extra_Terrestrials\bin\Debug\netcoreapp3.1\Extra_Terrestrials.dll
+D:\BT C#\Extra_Terrestrials\bin\Debug\netcoreapp3.1\Extra_Terrestrials.pdb
+D:\BT C#\Extra_Terrestrials\obj\Debug\netcoreapp3.1\Extra_Terrestrials.csprojAssemblyReference.cache
+D:\BT C#\Extra_Terrestrials\obj\Debug\netcoreapp3.1\Extra_Terrestrials.AssemblyInfoInputs.cache
+D:\BT C#\Extra_Terrestrials\obj\Debug\netcoreapp3.1\Extra_Terrestrials.AssemblyInfo.cs
+D:\BT C#\Extra_Terrestrials\obj\Debug\netcoreapp3.1\Extra_Terrestrials.csproj.CoreCompileInputs.cache
+D:\BT C#\Extra_Terrestrials\obj\Debug\netcoreapp3.1\Extra_Terrestrials.dll
+D:\BT C#\Extra_Terrestrials\obj\Debug\netcoreapp3.1\Extra_Terrestrials.pdb
+D:\BT C#\Extra_Terrestrials\obj\Debug\netcoreapp3.1\Extra_Terrestrials.genruntimeconfig.cache

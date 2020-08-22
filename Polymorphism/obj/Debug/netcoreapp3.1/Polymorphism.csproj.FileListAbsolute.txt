@@ -1,0 +1,12 @@
+D:\BT C#\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.exe
+D:\BT C#\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.deps.json
+D:\BT C#\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.runtimeconfig.json
+D:\BT C#\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.runtimeconfig.dev.json
+D:\BT C#\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.dll
+D:\BT C#\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.pdb
+D:\BT C#\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.AssemblyInfoInputs.cache
+D:\BT C#\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.AssemblyInfo.cs
+D:\BT C#\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.csproj.CoreCompileInputs.cache
+D:\BT C#\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.dll
+D:\BT C#\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.pdb
+D:\BT C#\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\BT C#\Conditional and Loop\bin\Debug\netcoreapp3.1\Conditional and Loop.exe
+D:\BT C#\Conditional and Loop\bin\Debug\netcoreapp3.1\Conditional and Loop.deps.json
+D:\BT C#\Conditional and Loop\bin\Debug\netcoreapp3.1\Conditional and Loop.runtimeconfig.json
+D:\BT C#\Conditional and Loop\bin\Debug\netcoreapp3.1\Conditional and Loop.runtimeconfig.dev.json
+D:\BT C#\Conditional and Loop\bin\Debug\netcoreapp3.1\Conditional and Loop.dll
+D:\BT C#\Conditional and Loop\bin\Debug\netcoreapp3.1\Conditional and Loop.pdb
+D:\BT C#\Conditional and Loop\obj\Debug\netcoreapp3.1\Conditional and Loop.csprojAssemblyReference.cache
+D:\BT C#\Conditional and Loop\obj\Debug\netcoreapp3.1\Conditional and Loop.AssemblyInfoInputs.cache
+D:\BT C#\Conditional and Loop\obj\Debug\netcoreapp3.1\Conditional and Loop.AssemblyInfo.cs
+D:\BT C#\Conditional and Loop\obj\Debug\netcoreapp3.1\Conditional and Loop.csproj.CoreCompileInputs.cache
+D:\BT C#\Conditional and Loop\obj\Debug\netcoreapp3.1\Conditional and Loop.dll
+D:\BT C#\Conditional and Loop\obj\Debug\netcoreapp3.1\Conditional and Loop.pdb
+D:\BT C#\Conditional and Loop\obj\Debug\netcoreapp3.1\Conditional and Loop.genruntimeconfig.cache

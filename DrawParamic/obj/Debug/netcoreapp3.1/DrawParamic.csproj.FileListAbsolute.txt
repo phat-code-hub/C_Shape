@@ -1,0 +1,12 @@
+D:\BT C#\DrawParamic\bin\Debug\netcoreapp3.1\DrawParamic.exe
+D:\BT C#\DrawParamic\bin\Debug\netcoreapp3.1\DrawParamic.deps.json
+D:\BT C#\DrawParamic\bin\Debug\netcoreapp3.1\DrawParamic.runtimeconfig.json
+D:\BT C#\DrawParamic\bin\Debug\netcoreapp3.1\DrawParamic.runtimeconfig.dev.json
+D:\BT C#\DrawParamic\bin\Debug\netcoreapp3.1\DrawParamic.dll
+D:\BT C#\DrawParamic\bin\Debug\netcoreapp3.1\DrawParamic.pdb
+D:\BT C#\DrawParamic\obj\Debug\netcoreapp3.1\DrawParamic.AssemblyInfoInputs.cache
+D:\BT C#\DrawParamic\obj\Debug\netcoreapp3.1\DrawParamic.AssemblyInfo.cs
+D:\BT C#\DrawParamic\obj\Debug\netcoreapp3.1\DrawParamic.csproj.CoreCompileInputs.cache
+D:\BT C#\DrawParamic\obj\Debug\netcoreapp3.1\DrawParamic.dll
+D:\BT C#\DrawParamic\obj\Debug\netcoreapp3.1\DrawParamic.pdb
+D:\BT C#\DrawParamic\obj\Debug\netcoreapp3.1\DrawParamic.genruntimeconfig.cache
