@@ -15,8 +15,7 @@ namespace Extra_Terrestrials
         static void Main(string[] args)
         {
             string word = Console.ReadLine().Trim();
-           // string wordr = Reverse(word);
-            Console.WriteLine("Tu la {0}",Reverse(word));
+            Console.WriteLine(Reverse(word));
         }
     }
 }
