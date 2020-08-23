@@ -1,0 +1,12 @@
+D:\BT C#\Dict_app\bin\Debug\netcoreapp3.1\Dict_app.exe
+D:\BT C#\Dict_app\bin\Debug\netcoreapp3.1\Dict_app.deps.json
+D:\BT C#\Dict_app\bin\Debug\netcoreapp3.1\Dict_app.runtimeconfig.json
+D:\BT C#\Dict_app\bin\Debug\netcoreapp3.1\Dict_app.runtimeconfig.dev.json
+D:\BT C#\Dict_app\bin\Debug\netcoreapp3.1\Dict_app.dll
+D:\BT C#\Dict_app\bin\Debug\netcoreapp3.1\Dict_app.pdb
+D:\BT C#\Dict_app\obj\Debug\netcoreapp3.1\Dict_app.AssemblyInfoInputs.cache
+D:\BT C#\Dict_app\obj\Debug\netcoreapp3.1\Dict_app.AssemblyInfo.cs
+D:\BT C#\Dict_app\obj\Debug\netcoreapp3.1\Dict_app.csproj.CoreCompileInputs.cache
+D:\BT C#\Dict_app\obj\Debug\netcoreapp3.1\Dict_app.dll
+D:\BT C#\Dict_app\obj\Debug\netcoreapp3.1\Dict_app.pdb
+D:\BT C#\Dict_app\obj\Debug\netcoreapp3.1\Dict_app.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\BT C#\HashSet_app\bin\Debug\netcoreapp3.1\HashSet_app.exe
+D:\BT C#\HashSet_app\bin\Debug\netcoreapp3.1\HashSet_app.deps.json
+D:\BT C#\HashSet_app\bin\Debug\netcoreapp3.1\HashSet_app.runtimeconfig.json
+D:\BT C#\HashSet_app\bin\Debug\netcoreapp3.1\HashSet_app.runtimeconfig.dev.json
+D:\BT C#\HashSet_app\bin\Debug\netcoreapp3.1\HashSet_app.dll
+D:\BT C#\HashSet_app\bin\Debug\netcoreapp3.1\HashSet_app.pdb
+D:\BT C#\HashSet_app\obj\Debug\netcoreapp3.1\HashSet_app.AssemblyInfoInputs.cache
+D:\BT C#\HashSet_app\obj\Debug\netcoreapp3.1\HashSet_app.AssemblyInfo.cs
+D:\BT C#\HashSet_app\obj\Debug\netcoreapp3.1\HashSet_app.csproj.CoreCompileInputs.cache
+D:\BT C#\HashSet_app\obj\Debug\netcoreapp3.1\HashSet_app.dll
+D:\BT C#\HashSet_app\obj\Debug\netcoreapp3.1\HashSet_app.pdb
+D:\BT C#\HashSet_app\obj\Debug\netcoreapp3.1\HashSet_app.genruntimeconfig.cache

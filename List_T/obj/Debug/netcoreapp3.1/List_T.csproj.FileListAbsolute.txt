@@ -1,0 +1,12 @@
+D:\BT C#\List_T\obj\Debug\netcoreapp3.1\List_T.AssemblyInfoInputs.cache
+D:\BT C#\List_T\obj\Debug\netcoreapp3.1\List_T.AssemblyInfo.cs
+D:\BT C#\List_T\obj\Debug\netcoreapp3.1\List_T.csproj.CoreCompileInputs.cache
+D:\BT C#\List_T\bin\Debug\netcoreapp3.1\List_T.exe
+D:\BT C#\List_T\bin\Debug\netcoreapp3.1\List_T.deps.json
+D:\BT C#\List_T\bin\Debug\netcoreapp3.1\List_T.runtimeconfig.json
+D:\BT C#\List_T\bin\Debug\netcoreapp3.1\List_T.runtimeconfig.dev.json
+D:\BT C#\List_T\bin\Debug\netcoreapp3.1\List_T.dll
+D:\BT C#\List_T\bin\Debug\netcoreapp3.1\List_T.pdb
+D:\BT C#\List_T\obj\Debug\netcoreapp3.1\List_T.dll
+D:\BT C#\List_T\obj\Debug\netcoreapp3.1\List_T.pdb
+D:\BT C#\List_T\obj\Debug\netcoreapp3.1\List_T.genruntimeconfig.cache

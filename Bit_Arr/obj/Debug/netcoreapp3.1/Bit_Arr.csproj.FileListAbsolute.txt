@@ -1,0 +1,12 @@
+D:\BT C#\Bit_Arr\bin\Debug\netcoreapp3.1\Bit_Arr.exe
+D:\BT C#\Bit_Arr\bin\Debug\netcoreapp3.1\Bit_Arr.deps.json
+D:\BT C#\Bit_Arr\bin\Debug\netcoreapp3.1\Bit_Arr.runtimeconfig.json
+D:\BT C#\Bit_Arr\bin\Debug\netcoreapp3.1\Bit_Arr.runtimeconfig.dev.json
+D:\BT C#\Bit_Arr\bin\Debug\netcoreapp3.1\Bit_Arr.dll
+D:\BT C#\Bit_Arr\bin\Debug\netcoreapp3.1\Bit_Arr.pdb
+D:\BT C#\Bit_Arr\obj\Debug\netcoreapp3.1\Bit_Arr.AssemblyInfoInputs.cache
+D:\BT C#\Bit_Arr\obj\Debug\netcoreapp3.1\Bit_Arr.AssemblyInfo.cs
+D:\BT C#\Bit_Arr\obj\Debug\netcoreapp3.1\Bit_Arr.csproj.CoreCompileInputs.cache
+D:\BT C#\Bit_Arr\obj\Debug\netcoreapp3.1\Bit_Arr.dll
+D:\BT C#\Bit_Arr\obj\Debug\netcoreapp3.1\Bit_Arr.pdb
+D:\BT C#\Bit_Arr\obj\Debug\netcoreapp3.1\Bit_Arr.genruntimeconfig.cache
