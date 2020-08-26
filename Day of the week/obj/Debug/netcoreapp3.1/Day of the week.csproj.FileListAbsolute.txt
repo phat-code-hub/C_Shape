@@ -1,0 +1,13 @@
+D:\BT C#\Day of the week\bin\Debug\netcoreapp3.1\Day of the week.exe
+D:\BT C#\Day of the week\bin\Debug\netcoreapp3.1\Day of the week.deps.json
+D:\BT C#\Day of the week\bin\Debug\netcoreapp3.1\Day of the week.runtimeconfig.json
+D:\BT C#\Day of the week\bin\Debug\netcoreapp3.1\Day of the week.runtimeconfig.dev.json
+D:\BT C#\Day of the week\bin\Debug\netcoreapp3.1\Day of the week.dll
+D:\BT C#\Day of the week\bin\Debug\netcoreapp3.1\Day of the week.pdb
+D:\BT C#\Day of the week\obj\Debug\netcoreapp3.1\Day of the week.csprojAssemblyReference.cache
+D:\BT C#\Day of the week\obj\Debug\netcoreapp3.1\Day of the week.AssemblyInfoInputs.cache
+D:\BT C#\Day of the week\obj\Debug\netcoreapp3.1\Day of the week.AssemblyInfo.cs
+D:\BT C#\Day of the week\obj\Debug\netcoreapp3.1\Day of the week.csproj.CoreCompileInputs.cache
+D:\BT C#\Day of the week\obj\Debug\netcoreapp3.1\Day of the week.dll
+D:\BT C#\Day of the week\obj\Debug\netcoreapp3.1\Day of the week.pdb
+D:\BT C#\Day of the week\obj\Debug\netcoreapp3.1\Day of the week.genruntimeconfig.cache
