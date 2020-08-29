@@ -1,0 +1,13 @@
+D:\BT C#\Youtube Link Finder\obj\Debug\netcoreapp3.1\Youtube Link Finder.csprojAssemblyReference.cache
+D:\BT C#\Youtube Link Finder\obj\Debug\netcoreapp3.1\Youtube Link Finder.AssemblyInfoInputs.cache
+D:\BT C#\Youtube Link Finder\obj\Debug\netcoreapp3.1\Youtube Link Finder.AssemblyInfo.cs
+D:\BT C#\Youtube Link Finder\obj\Debug\netcoreapp3.1\Youtube Link Finder.csproj.CoreCompileInputs.cache
+D:\BT C#\Youtube Link Finder\bin\Debug\netcoreapp3.1\Youtube Link Finder.exe
+D:\BT C#\Youtube Link Finder\bin\Debug\netcoreapp3.1\Youtube Link Finder.deps.json
+D:\BT C#\Youtube Link Finder\bin\Debug\netcoreapp3.1\Youtube Link Finder.runtimeconfig.json
+D:\BT C#\Youtube Link Finder\bin\Debug\netcoreapp3.1\Youtube Link Finder.runtimeconfig.dev.json
+D:\BT C#\Youtube Link Finder\bin\Debug\netcoreapp3.1\Youtube Link Finder.dll
+D:\BT C#\Youtube Link Finder\bin\Debug\netcoreapp3.1\Youtube Link Finder.pdb
+D:\BT C#\Youtube Link Finder\obj\Debug\netcoreapp3.1\Youtube Link Finder.dll
+D:\BT C#\Youtube Link Finder\obj\Debug\netcoreapp3.1\Youtube Link Finder.pdb
+D:\BT C#\Youtube Link Finder\obj\Debug\netcoreapp3.1\Youtube Link Finder.genruntimeconfig.cache
