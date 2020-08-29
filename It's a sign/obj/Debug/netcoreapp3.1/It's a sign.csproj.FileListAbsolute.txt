@@ -1,0 +1,13 @@
+D:\BT C#\It's a sign\bin\Debug\netcoreapp3.1\It's a sign.exe
+D:\BT C#\It's a sign\bin\Debug\netcoreapp3.1\It's a sign.deps.json
+D:\BT C#\It's a sign\bin\Debug\netcoreapp3.1\It's a sign.runtimeconfig.json
+D:\BT C#\It's a sign\bin\Debug\netcoreapp3.1\It's a sign.runtimeconfig.dev.json
+D:\BT C#\It's a sign\bin\Debug\netcoreapp3.1\It's a sign.dll
+D:\BT C#\It's a sign\bin\Debug\netcoreapp3.1\It's a sign.pdb
+D:\BT C#\It's a sign\obj\Debug\netcoreapp3.1\It's a sign.csprojAssemblyReference.cache
+D:\BT C#\It's a sign\obj\Debug\netcoreapp3.1\It's a sign.AssemblyInfoInputs.cache
+D:\BT C#\It's a sign\obj\Debug\netcoreapp3.1\It's a sign.AssemblyInfo.cs
+D:\BT C#\It's a sign\obj\Debug\netcoreapp3.1\It's a sign.csproj.CoreCompileInputs.cache
+D:\BT C#\It's a sign\obj\Debug\netcoreapp3.1\It's a sign.dll
+D:\BT C#\It's a sign\obj\Debug\netcoreapp3.1\It's a sign.pdb
+D:\BT C#\It's a sign\obj\Debug\netcoreapp3.1\It's a sign.genruntimeconfig.cache
