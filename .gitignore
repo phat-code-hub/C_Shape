@@ -1,0 +1,14 @@
+
+Flowing word/.vs/Flowing word/v16/.suo
+*.exe
+*.json
+*.csproj
+*.cache
+*.dll
+*.txt
+*.sln
+*.pdb
+*.props
+*.targets
+Flowing word/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+Flowing word/obj/Debug/netcoreapp3.1/Flowing word.AssemblyInfo.cs
