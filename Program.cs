@@ -3,11 +3,12 @@ using System.Text;
 
 namespace Prime_String1
 {
+    
     class Program
     {
-        static string word;
-        static string ans;
-        static String compareString()
+        string word;
+        string ans;
+         String compareString()
         {
             
             return "prime";
