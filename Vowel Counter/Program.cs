@@ -2,7 +2,8 @@
 using System.Linq;
 
 namespace Vowel_Counter
-{
+{   
+    
     class Program
     {   
         const string VOWEL = "AIUEOaiueo";
