@@ -15,8 +15,15 @@ namespace AverageWordLength
             {
                 sum += word.Length;
             });
-            double avg = (double)sum / (lst.Count);
-            Console.WriteLine(Math.Ceiling(avg));
+            double avg = (double) sum / (double)lst.Count;
+            Console.WriteLine(avg);
+            if (avg >= 3.5)
+            {
+                Console.WriteLine(Math.Ceiling(avg));
+            } else
+            {
+                Console.WriteLine(Math.Round(avg));
+            }
         }
     }
 }
