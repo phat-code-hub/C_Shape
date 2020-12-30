@@ -7,17 +7,16 @@ namespace AverageWordLength
     {
         static void Main(string[] args)
         {
+            String words = Console.ReadLine().Trim();
             List<String> lst = new List<string>();
-            lst.Add("Phat");
-            lst.Add("Tuan");
             int sum = 0;
-            double tt = Math.Ceiling((26.0 / 5));
-            foreach( string s in lst)
+            lst.AddRange(words.Split(" "));
+            lst.ForEach(delegate (String word)
             {
-                Console.WriteLine (s);
-                sum += s.Length;
-            }
-            Console.WriteLine(tt);
+                sum += word.Length;
+            });
+            double avg = (double)sum / (lst.Count);
+            Console.WriteLine(Math.Ceiling(avg));
         }
     }
 }
