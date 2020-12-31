@@ -13,7 +13,7 @@ namespace The_Spy_Life
             {
                 if (Char.IsLetter(c) || c== ' ')
                 {
-                    ans = c+ans;
+                    ans= ans.Insert(0, c.ToString());
                 };
                 
             };
