@@ -7,11 +7,11 @@ namespace The_Spy_Life
        
         static void Main(string[] args)
         {
-            string mess = Console.ReadLine().Trim();
+            string message = Console.ReadLine().Trim();
             string ans = "";
-            foreach (char c in mess)
+            foreach (char c in message)
             {
-                if (Char.IsLetter(c))
+                if (Char.IsLetter(c) || c== ' ')
                 {
                     ans = c+ans;
                 };
