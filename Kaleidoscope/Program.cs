@@ -18,7 +18,8 @@ namespace Kaleidoscope
                     sum *= (1 - DISCOUNT);
                 }
                 sum *= (1 + TAX);
-                Console.WriteLine(Math.Round(sum, 2));
+                string res = String.Format("{0:f2}", sum);
+                Console.WriteLine(res);
             } 
             catch(Exception e)
             {
