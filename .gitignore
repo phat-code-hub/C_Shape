@@ -51,3 +51,6 @@ AverageWordLength/Program.cs
 Kaleidoscope/obj/Debug/netcoreapp3.1/Kaleidoscope.AssemblyInfo.cs
 Kaleidoscope/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
 Kaleidoscope/.vs/Kaleidoscope/v16/.suo
+MilitaryTime/obj/Debug/netcoreapp3.1/MilitaryTime.AssemblyInfo.cs
+MilitaryTime/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+MilitaryTime/.vs/MilitaryTime/v16/.suo
