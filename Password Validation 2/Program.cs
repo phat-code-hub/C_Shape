@@ -6,6 +6,7 @@ namespace Password_Validation_2
     {
         static void Main(string[] args)
         {
+            const string SPECIAL= "!@#$%&*";
             int sum1 = 0, sum2 = 0;
             string ans = "Weak";
             string words = Console.ReadLine().Trim();
@@ -13,9 +14,10 @@ namespace Password_Validation_2
             {
                 foreach (char c in words)
                 {
-                    if (Char.IsDigit(c)) sum1++;
-                    if (Char.IsPunctuation(c)) sum2++;
+                    if (Char.IsNumber(c)) sum1++;
+                    if (SPECIAL.Contains(c)) sum2++;
                 }
+                Console.WriteLine(sum1 + ",,"+sum2);
                 ans = (sum1 >= 2 && sum2 >= 2) ? "Strong" : "Weak";
 
             }
